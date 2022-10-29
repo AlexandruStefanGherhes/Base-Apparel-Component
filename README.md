@@ -41,8 +41,8 @@ Mobile version active
 
 ### Links
 
-- Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Ping-coming-soon.git)
-- Live Site URL: [Vercel Live URL](https://ping-coming-soon-psi.vercel.app/)
+- Solution URL: [Code on GitHub](https://github.com/AlexandruStefanGherhes/Base-Apparel-Component.git)
+- Live Site URL: [Vercel Live URL](https://base-apparel-component.vercel.app/)
 
 ## My process
 
